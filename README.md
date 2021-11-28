@@ -3,6 +3,8 @@
 ## Overview
 This is my first attempt at Kaggle's beginner machine learning competition.
 
+My Kaggle Kernel:https://www.kaggle.com/nimasamii/stacking-house-prices
+
 House Prices competition: https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 
 ## Tools Used
